@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Vercel - TODO](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/navalBhagat/nft-preview-card-component-fe-mentor)
+- Live Site URL: [Vercel](https://nft-preview-card-component-fe-mentor-gdba3scrz.vercel.app)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@navalBhagat](https://www.frontendmentor.io/profile/navalBhagat)
