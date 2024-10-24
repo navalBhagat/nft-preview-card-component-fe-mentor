@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/navalBhagat/nft-preview-card-component-fe-mentor)
-- Live Site URL: [Vercel](https://nft-preview-card-component-fe-mentor-gdba3scrz.vercel.app)
+- Live Site URL: [Vercel](https://nft-preview-card-component-fe-mentor.vercel.app)
 
 ## Author
 
